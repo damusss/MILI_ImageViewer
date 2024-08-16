@@ -1,0 +1,3 @@
+mili-ui>=0.9.1
+imagesize>=1.4.1
+send2trash>=1.8.3
